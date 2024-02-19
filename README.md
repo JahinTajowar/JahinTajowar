@@ -1,5 +1,4 @@
 # Hello, World!
- This is Jahin .👋
 
 I'm a passionate student and programmer with a strong background in design and development. Currently, 
 I'm immersed in the world of HTML, CSS, JavaScript, C, C++, Data Structures, and Algorithms. 
