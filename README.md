@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hello, World! This is Jahin .👋
 
 I'm a passionate student and programmer with a strong background in design and development. Currently, 
 I'm immersed in the world of HTML, CSS, JavaScript, C, C++, Data Structures, and Algorithms. 
@@ -22,5 +22,5 @@ My journey involves regular problem-solving practices to sharpen my coding skill
 ## Goals
 - 🚀 Continuously learning, growing, and mastering new skills.
 - 🌱 Exploring diverse programming languages and expanding my horizons.
-
+  
 Let's connect, learn, and code together! 🚀
