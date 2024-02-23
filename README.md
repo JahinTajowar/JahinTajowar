@@ -28,6 +28,3 @@ Here's a byte-sized glimpse into my programming galaxy:
 ## Goals
 - 🚀 Planning world domination through coding brilliance (or at least a cool app).
 
-Join me on this epic coding quest, and let's turn errors into laughter together! 😄💻
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
